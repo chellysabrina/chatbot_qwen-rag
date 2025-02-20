@@ -1,1 +1,1 @@
-# chatbot_qwen-rag
+# chatbot_qwen_rag
